@@ -71,7 +71,7 @@
     "vite-plugin-eslint": "^1.8.1",
     "vite-plugin-vuetify": "^2.0.3",
     "vue-eslint-parser": "^9.4.2",
-    "vue-tsc": "^2.0.16"
+    "vue-tsc": "^2.0.24"
   },
   "overrides": {
     "vite-plugin-electron": {
