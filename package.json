@@ -60,7 +60,7 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-n": "16.6.2",
     "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-vue": "^9.25.0",
+    "eslint-plugin-vue": "^9.27.0",
     "playwright": "^1.43.1",
     "prettier": "^3.2.5",
     "tree-kill": "^1.2.2",
